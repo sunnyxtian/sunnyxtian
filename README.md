@@ -1,4 +1,6 @@
-## Hi there 👋
+## design + code
+
+uw informatics junior finding joy in messing around with code.  💿💻
 
 <!--
 **sunnyxtian/sunnyxtian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
